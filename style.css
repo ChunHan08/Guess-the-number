@@ -29,7 +29,7 @@ body {
 }
 
 .wrapper p {
-  color: #679;
+  color: red;
 }
 
 .wrapper .input-field {
@@ -64,10 +64,10 @@ input::-webkit-outer-spin-button {
 }
 .input-field button {
   border:  none;
-  background: #4a35;
+  background: green;
   color: #fff;
   cursor: pointer;
-  tansition: 0.3s;
+  transition: 0.3s;
 }
 
 .input-field button:active {
